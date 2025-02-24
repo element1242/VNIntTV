@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:0,TPV-Int [cloudinary]
+http://res.cloudinary.com/dkdtlpy9m/video/live/live_stream_55eec5aabc18411da3eb63fe1162e6d1_hls.m3u8
+#EXTINF:0,TPV-Int [host,mts]
+https://server.priterytivi.com/tpvint/mpegts
+#EXTINF:0,TPV-Int [host,hls]
+https://server.priterytivi.com/tpvint/index.m3u8
+#EXTINF:0,TPV-1/1Plus [host,mts]
+https://server.priterytivi.com/tpvchannel/mpegts
+#EXTINF:0,TPV-1/1Plus [host,hls]
+https://server.priterytivi.com/tpvchannel/index.m3u8
+#EXTINF:0,TPV-2/2Plus [host,mts]
+https://server.priterytivi.com/tpv2/mpegts
+#EXTINF:0,TPV-2/2Plus [host,hls]
+https://server.priterytivi.com/tpv2/index.m3u8
+
